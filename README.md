@@ -11,7 +11,8 @@ An enterprise-grade multi-site university network designed and implemented in Ci
 
 ## 📐 System Architecture & Topology
 
-![Albion University Topology](topology.png)
+<img width="1207" height="364" alt="topology" src="https://github.com/user-attachments/assets/1cbb8078-496a-40f3-8120-529df8adbc8a" />
+
 
 ---
 
@@ -67,7 +68,8 @@ Albion University operates across two geographic locations 20 miles apart, servi
 
 End-to-end communication was verified using ICMP Ping, HTTP access to the internal Web Server, and SMTP/POP3 reachability to the external Cloud Email Server across WAN links:
 
-![Ping & Connectivity Test](ping_test.png)
+<img width="415" height="284" alt="ping_test" src="https://github.com/user-attachments/assets/d5583718-9fb5-4723-82c8-f5b1fc49813f" />
+
 
 ---
 
